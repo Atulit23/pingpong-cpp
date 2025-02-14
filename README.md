@@ -5,7 +5,7 @@ The game logic is implemented in C++ and compiled to WebAssembly using **Emscrip
 
 ---
 
-## **🛠 Setup and Installation**
+## ** Setup and Installation**
 
 ### **1️. Install Emscripten SDK (emsdk)**  
 First, **clone and install** the Emscripten SDK:  
