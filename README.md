@@ -1,4 +1,4 @@
-# 🏓 WebAssembly Pong Game
+#  WebAssembly Pong Game
 
 This is a simple **Pong game** built using **C++** and **WebAssembly (WASM)**, rendered on an **HTML5 Canvas**.  
 The game logic is implemented in C++ and compiled to WebAssembly using **Emscripten**.
@@ -7,7 +7,7 @@ The game logic is implemented in C++ and compiled to WebAssembly using **Emscrip
 
 ## **🛠 Setup and Installation**
 
-### **1️⃣ Install Emscripten SDK (emsdk)**  
+### **1️. Install Emscripten SDK (emsdk)**  
 First, **clone and install** the Emscripten SDK:  
 
 ```bash
